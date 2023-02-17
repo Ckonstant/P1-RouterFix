@@ -1,0 +1,12 @@
+c:\users\vanyar\documents\visual studio 2012\Projects\RouterFix\RouterFix\obj\Debug\RouterFix.Form1.resources
+c:\users\vanyar\documents\visual studio 2012\Projects\RouterFix\RouterFix\obj\Debug\RouterFix.Resources.resources
+c:\users\vanyar\documents\visual studio 2012\Projects\RouterFix\RouterFix\obj\Debug\RouterFix.vbproj.GenerateResource.Cache
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Debug\RouterFix.Form2.resources
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\bin\Debug\Wireless Recovery.exe.config
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\bin\Debug\Wireless Recovery.exe
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\bin\Debug\Wireless Recovery.pdb
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\bin\Debug\Wireless Recovery.xml
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Debug\Wireless Recovery.exe
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Debug\Wireless Recovery.xml
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Debug\Wireless Recovery.pdb
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Debug\RouterFix.Form3.resources

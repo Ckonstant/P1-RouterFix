@@ -1,0 +1,31 @@
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\bin\Release\Wireless Recovery.exe.config
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\bin\Release\Wireless Recovery.exe
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\bin\Release\Wireless Recovery.pdb
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\bin\Release\Wireless Recovery.xml
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Release\RouterFix.Form1.resources
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Release\RouterFix.Form2.resources
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Release\RouterFix.Form3.resources
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Release\RouterFix.Resources.resources
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Release\RouterFix.vbproj.GenerateResource.Cache
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Release\Wireless Recovery.exe
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Release\Wireless Recovery.xml
+C:\Users\Vanyar\Documents\Visual Studio 2012\Projects\RouterFix\RouterFix\obj\Release\Wireless Recovery.pdb
+C:\Users\Akuaku\Desktop\Format\visual studio\RouterFix\RouterFix\obj\Release\RouterFix.vbprojAssemblyReference.cache
+C:\Users\Akuaku\Desktop\Format\visual studio\RouterFix\RouterFix\obj\Release\RouterFix.Form1.resources
+C:\Users\Akuaku\Desktop\Format\visual studio\RouterFix\RouterFix\obj\Release\RouterFix.Form2.resources
+C:\Users\Akuaku\Desktop\Format\visual studio\RouterFix\RouterFix\obj\Release\RouterFix.Form3.resources
+C:\Users\Akuaku\Desktop\Format\visual studio\RouterFix\RouterFix\obj\Release\RouterFix.Resources.resources
+C:\Users\Akuaku\Desktop\Format\visual studio\RouterFix\RouterFix\obj\Release\RouterFix.vbproj.GenerateResource.cache
+C:\Users\Akuaku\Desktop\Format\visual studio\RouterFix\RouterFix\obj\Release\Wireless Recovery.exe
+C:\Users\Akuaku\Desktop\Format\visual studio\RouterFix\RouterFix\obj\Release\Wireless Recovery.xml
+C:\Users\Akuaku\Desktop\Format\visual studio\RouterFix\RouterFix\obj\Release\Wireless Recovery.pdb
+C:\Users\Akuaku\Desktop\My Portfolio\RouterFix\RouterFix\obj\Release\RouterFix.vbprojAssemblyReference.cache
+C:\Users\Akuaku\Desktop\My Portfolio\RouterFix\RouterFix\obj\Release\RouterFix.Form1.resources
+C:\Users\Akuaku\Desktop\My Portfolio\RouterFix\RouterFix\obj\Release\RouterFix.Form2.resources
+C:\Users\Akuaku\Desktop\My Portfolio\RouterFix\RouterFix\obj\Release\RouterFix.Form3.resources
+C:\Users\Akuaku\Desktop\My Portfolio\RouterFix\RouterFix\obj\Release\RouterFix.Resources.resources
+C:\Users\Akuaku\Desktop\My Portfolio\RouterFix\RouterFix\obj\Release\RouterFix.vbproj.GenerateResource.cache
+C:\Users\Akuaku\Desktop\My Portfolio\RouterFix\RouterFix\obj\Release\RouterFix.vbproj.CoreCompileInputs.cache
+C:\Users\Akuaku\Desktop\My Portfolio\RouterFix\RouterFix\obj\Release\Wireless Recovery.exe
+C:\Users\Akuaku\Desktop\My Portfolio\RouterFix\RouterFix\obj\Release\Wireless Recovery.xml
+C:\Users\Akuaku\Desktop\My Portfolio\RouterFix\RouterFix\obj\Release\Wireless Recovery.pdb
