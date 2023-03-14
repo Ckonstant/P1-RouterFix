@@ -30,21 +30,18 @@ https://user-images.githubusercontent.com/125656019/225110705-880cc34d-b58d-49bc
 
 ### Executing program
 
-*To run the program simply after installing it just use the shortcut on desktop.
-```
-code blocks for commands
-```
+* To run the program simply after installing it just use the shortcut on desktop.
+
 
 ## Help
 
-*For any problem you encounter contact  info@chriskon.com
+* For any problem you encounter contact  info@chriskon.com
 
 ## Authors
 
-Contributors names and contact info
 
-Christos Konstantinidis
-ex. [@chriskon](https://chriskon.com/)
+* Christos Konstantinidis
+* WebSite  [@chriskon](https://chriskon.com/)
 
 ## Version History
 
